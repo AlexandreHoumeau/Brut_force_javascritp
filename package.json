@@ -1,0 +1,19 @@
+{
+  "name": "brut_force",
+  "version": "1.0.0",
+  "description": "Simple Brut force",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreHoumeau/Brut_force_javascritp.git"
+  },
+  "author": "Alexandre Houmeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreHoumeau/Brut_force_javascritp/issues"
+  },
+  "homepage": "https://github.com/AlexandreHoumeau/Brut_force_javascritp#readme"
+}
